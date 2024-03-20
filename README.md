@@ -1,3 +1,3 @@
 # ForDemo
 This is my git repository <br>
-author - Neeraj Kumar 
+author - Neeraj Kumar ( some changes)
